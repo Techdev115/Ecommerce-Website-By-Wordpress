@@ -1,0 +1,91 @@
+<wpml-config>
+	<admin-texts>
+		<key name="shoppingcart_theme_options">
+			<key name="shoppingcart_search_text" />
+			<key name="shoppingcart_tag_text" />
+			<key name="shoppingcart_features_title" />
+			<key name="shoppingcart_features_description" />
+			<key name="shoppingcart_categories_features_title" />
+			<key name="shoppingcart_categories_features_description" />
+
+			<key name="shoppingcart_img-product-promotion-image-1" />
+			<key name="shoppingcart_img-product-promotion-image-2" />
+			<key name="shoppingcart_img-product-promotion-image-3" />
+			<key name="shoppingcart_img-product-promotion-image-4" />
+			<key name="shoppingcart_img-product-promotion-image-5" />
+			<key name="shoppingcart_img-product-promotion-image-6" />
+			<key name="shoppingcart_img-product-promotion-image-7" />
+			<key name="shoppingcart_img-product-promotion-image-8" />
+			<key name="shoppingcart_img-product-promotion-image-9" />
+			<key name="shoppingcart_img-product-promotion-image-10" />
+
+			<key name="shoppingcart_product_promotion_url_1" />
+			<key name="shoppingcart_product_promotion_url_2" />
+			<key name="shoppingcart_product_promotion_url_3" />
+			<key name="shoppingcart_product_promotion_url_4" />
+			<key name="shoppingcart_product_promotion_url_5" />
+			<key name="shoppingcart_product_promotion_url_6" />
+			<key name="shoppingcart_product_promotion_url_7" />
+			<key name="shoppingcart_product_promotion_url_8" />
+			<key name="shoppingcart_product_promotion_url_9" />
+			<key name="shoppingcart_product_promotion_url_10" />
+
+			<key name="shoppingcart_image_slider_title1" />
+			<key name="shoppingcart_image_slider_title2" />
+			<key name="shoppingcart_image_slider_title3" />
+			<key name="shoppingcart_image_slider_title4" />
+			<key name="shoppingcart_image_slider_title5" />
+			<key name="shoppingcart_image_slider_title6" />
+			<key name="shoppingcart_image_slider_title7" />
+			<key name="shoppingcart_image_slider_title8" />
+			<key name="shoppingcart_image_slider_title9" />
+			<key name="shoppingcart_image_slider_title10" />
+
+			<key name="shoppingcart_image_featured_sliderimage_1" />
+			<key name="shoppingcart_image_featured_sliderimage_2" />
+			<key name="shoppingcart_image_featured_sliderimage_3" />
+			<key name="shoppingcart_image_featured_sliderimage_4" />
+			<key name="shoppingcart_image_featured_sliderimage_5" />
+			<key name="shoppingcart_image_featured_sliderimage_6" />
+			<key name="shoppingcart_image_featured_sliderimage_7" />
+			<key name="shoppingcart_image_featured_sliderimage_8" />
+			<key name="shoppingcart_image_featured_sliderimage_9" />
+			<key name="shoppingcart_image_featured_sliderimage_10" />
+
+			<key name="shoppingcart_imageredirect_slider_link1" />
+			<key name="shoppingcart_imageredirect_slider_link2" />
+			<key name="shoppingcart_imageredirect_slider_link3" />
+			<key name="shoppingcart_imageredirect_slider_link4" />
+			<key name="shoppingcart_imageredirect_slider_link5" />
+			<key name="shoppingcart_imageredirect_slider_link6" />
+			<key name="shoppingcart_imageredirect_slider_link7" />
+			<key name="shoppingcart_imageredirect_slider_link8" />
+			<key name="shoppingcart_imageredirect_slider_link9" />
+			<key name="shoppingcart_imageredirect_slider_link10" />
+
+			<key name="shoppingcart_adv_ban_image1" />
+			<key name="shoppingcart_adv_ban_image2" />
+			<key name="shoppingcart_adv_ban_image3" />
+			<key name="shoppingcart_adv_ban_image4" />
+			<key name="shoppingcart_adv_ban_image5" />
+			<key name="shoppingcart_adv_ban_image6" />
+			<key name="shoppingcart_adv_ban_image7" />
+			<key name="shoppingcart_adv_ban_image8" />
+			<key name="shoppingcart_adv_ban_image9" />
+			<key name="shoppingcart_adv_ban_image10" />
+			
+			<key name="shoppingcart_adv_ban_link1" />
+			<key name="shoppingcart_adv_ban_link2" />
+			<key name="shoppingcart_adv_ban_link3" />
+			<key name="shoppingcart_adv_ban_link4" />
+			<key name="shoppingcart_adv_ban_link5" />
+			<key name="shoppingcart_adv_ban_link6" />
+			<key name="shoppingcart_adv_ban_link7" />
+			<key name="shoppingcart_adv_ban_link8" />
+			<key name="shoppingcart_adv_ban_link9" />
+			<key name="shoppingcart_adv_ban_link10" />
+
+
+		</key>
+	</admin-texts>
+</wpml-config>

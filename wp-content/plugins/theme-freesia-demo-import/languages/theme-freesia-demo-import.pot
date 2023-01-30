@@ -1,0 +1,941 @@
+# Copyright (C) 2018 ProteusThemes 
+# This file is distributed under the GPL 2.0.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: One Click Demo Import 2.5.1\n"
+"Report-Msgid-Bugs-To: http://support.proteusthemes.com/\n"
+"POT-Creation-Date: 2019-06-22 11:56+0545\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: files/alternative.php:15
+msgid ""
+"Recommended Plugins: Install Contact Form 7 Plugins. <br> <br> Thanks for being "
+"part of us. If you really like our theme, Please help us <a href=\"https://"
+"wordpress.org/support/theme/alternative/reviews/\" target=\"_blank\" rel="
+"\"nofollow\">rating</a> our theme\n"
+"      \t"
+msgstr ""
+
+#: files/alternative.php:23 files/arise.php:22 files/edge.php:21
+#: files/idyllic.php:66
+msgid ""
+"Important: Purchase Plus version to import demo content. If you have not "
+"purchased Plus version then demo content will not be imported. Plus version is a "
+"paid plugins for free themes.\n"
+"        "
+msgstr ""
+
+#: files/arise.php:14 files/edge.php:14 files/event.php:13
+#: files/freesia-empire.php:13 files/pixgraphy.php:13 plus-files/arise-plus.php:13
+#: plus-files/edge-plus.php:13 plus-files/event-plus.php:13
+#: plus-files/freesia-empire-plus.php:13 plus-files/pixgraphy-plus.php:13
+msgid "After you import this demo, you will have to setup the slider separately."
+msgstr ""
+
+#: files/event.php:22 files/excellent.php:51 files/freesia-business.php:21
+#: files/freesia-corporate.php:21 files/freesia-empire.php:22 files/magbook.php:56
+#: files/photograph.php:26 files/webart.php:23 files/wedding-photos.php:23
+msgid ""
+"Important: Purchase Plus version to import demo content. If you have not "
+"purchased Plus version then demo content will not be imported. Plus version is a "
+"paid plugins for free themes.\n"
+"\t        "
+msgstr ""
+
+#: files/excellent.php:14 plus-files/excellent-plus.php:13
+msgid ""
+"Important: You have to set up slider from Customize > Slider Options > Select "
+"Category Slider. Recommended Plugins: Install WooCommerce Plugins, Contact Form "
+"7 and Recent Posts Widget With Thumbnails to look exactly as in our demo."
+msgstr ""
+
+#: files/excellent.php:24 files/excellent.php:34
+msgid ""
+"Important: Recommended Plugins:Install Contact Form 7, Recent Posts Widget With "
+"Thumbnails to look exactly as in our demo."
+msgstr ""
+
+#: files/excellent.php:44
+msgid ""
+"Important: After importing demo content do not forget to run WooCommerce setup "
+"wizard. Doing it only your WooCommerce page will be set as in our demo. You have "
+"to set up slider from Customize > Slider Options > Select Category Slider. "
+"Recommended plugins : Install WooCommerce Plugins, Contact Form 7 and Recent "
+"Posts Widget With Thumbnails to look exactly as in our demo."
+msgstr ""
+
+#: files/idyllic.php:14 files/idyllic.php:25 files/idyllic.php:36
+#: files/idyllic.php:47 files/idyllic.php:58
+msgid ""
+"Important: You have to set up slider from Customize > Slider Options > Select "
+"Category Slider.<br> Portfolio from Customize > Front Page Template > Portfolio "
+"Section <br> Latest From Blog from Customize > Front Page Template > Latest From "
+"Blog Section <br> Recommended Plugins: Install WooCommerce , Recent Posts Widget "
+"With Thumbnails and Contact Form 7 Plugins  to look exactly as in our demo. <br> "
+"<br> Thanks for being part of us. If you really like our theme, Please help us "
+"<a href=\"https://wordpress.org/support/theme/idyllic/reviews/\" target=\"_blank"
+"\" rel=\"nofollow\">rating</a> our theme\n"
+"      \t"
+msgstr ""
+
+#: files/magbook.php:14
+msgid ""
+"Recommended Plugins: Install WooCommerce and Contact Form 7 Plugins  to look "
+"exactly as in our demo. <br> <br> Thanks for being part of us. If you really "
+"like our theme, Please help us <a href=\"https://wordpress.org/support/theme/"
+"magbook/reviews/\" target=\"_blank\" rel=\"nofollow\">rating</a> our theme\n"
+"      \t"
+msgstr ""
+
+#: files/magbook.php:25 files/magbook.php:36 files/magbook.php:47
+msgid ""
+"Recommended Plugins: Install WooCommerce , Recent Posts Widget With Thumbnails "
+"and Contact Form 7 Plugins  to look exactly as in our demo. <br> <br> Thanks for "
+"being part of us. If you really like our theme, Please help us <a href=\"https://"
+"wordpress.org/support/theme/magbook/reviews/\" target=\"_blank\" rel=\"nofollow"
+"\">rating</a> our theme\n"
+"      \t"
+msgstr ""
+
+#: files/photograph.php:16
+msgid ""
+"Recommended Plugins: Jetpack, Instagram Feed and Contact Form 7 Plugins  to look "
+"exactly as in our demo. <br> <br> Thanks for being part of us. If you really "
+"like our theme, Please help us <a href=\"https://wordpress.org/support/theme/"
+"photograph/reviews/\" target=\"_blank\" rel=\"nofollow\">rating</a> our theme. "
+"Jetpack Plugins is to display Gallery as shown in demo. You need to activate "
+"Carousel and Tiled Galleries to display exactly as in our demo site.\n"
+"\t      \t"
+msgstr ""
+
+#: files/pixgraphy.php:22 files/storexmas.php:38
+msgid ""
+"Important: Purchase Plus version to import demo content. If you have not "
+"purchased Plus version then demo content will not be imported. Plus version is a "
+"paid plugins for free themes.\n"
+"          "
+msgstr ""
+
+#: files/storexmas.php:15 plus-files/storexmas-plus.php:14
+msgid ""
+"Important: You have to set up slider from Customize > Slider Options > Select "
+"Category/ Proudct Category Slider (Select Product slider). <br> To display brand "
+"and Promo you need to install WooCommerce Plugin. \n"
+"<section id=\"frontpage\">\n"
+"<h3>Setup Frontpage/ Blog as in Demo</h3>\n"
+"\n"
+"<h4>Setup Front Page Features (Brand/ Promo)</h4>\n"
+"<ol><li>Install WooCommerce Plugin and activate it. Create products category and "
+"upload Category image. </li>\n"
+"<li><em>Create WooCommerce Products with featured image</em></li>\n"
+"<li><em>Repeat this process for other products too.</em></li>\n"
+"</ol>\n"
+"<em>After creating Products with featured image</em> Go to Dashboard &gt; "
+"Appearance &gt; Customize &gt; Frontpage Template &gt; Product Featured Brand/ "
+"Product Category &gt; Select Product Category <strong>just now you have created</"
+"strong>\n"
+"\n"
+"\n"
+"<h4>Front Page Template Section</h4>\n"
+"<img src=\"https://themefreesia.com/wp-content/uploads/2017/12/frontpage-"
+"template-1.jpg\" alt=\"front page features\" width=\"560\" height=\"748\" class="
+"\"alignnone size-full wp-image-16361\">\n"
+"\n"
+"</section>For more information <a href=\"https://themefreesia.com/theme-"
+"instruction/storexmas/#frontpage\" traget=\"_blank\"> Visit Instruction Page</"
+"a>   <br>Thanks for being part of us. If you really like our theme, Please help "
+"us <a href=\"https://wordpress.org/support/theme/storexmas/reviews/\" target="
+"\"_blank\" rel=\"nofollow\">rating</a> our theme\n"
+"      \t"
+msgstr ""
+
+#: files/webart.php:13
+msgid ""
+"Recommended Plugins: Jetpack, Instagram Feed and Contact Form 7 Plugins  to look "
+"exactly as in our demo. <br> <br> Thanks for being part of us. If you really "
+"like our theme, Please help us <a href=\"https://wordpress.org/support/theme/"
+"webart/reviews/\" target=\"_blank\" rel=\"nofollow\">rating</a> our theme. "
+"Jetpack Plugins is to display Gallery as shown in demo. You need to activate "
+"Carousel and Tiled Galleries to display exactly as in our demo site.\n"
+"      \t"
+msgstr ""
+
+#: files/wedding-photos.php:13
+msgid ""
+"Recommended Plugins: Jetpack and Contact Form 7 Plugins  to look exactly as in "
+"our demo. <br> <br> Thanks for being part of us. If you really like our theme, "
+"Please help us <a href=\"https://wordpress.org/support/theme/wedding-photos/"
+"reviews/\" target=\"_blank\" rel=\"nofollow\">rating</a> our theme. Jetpack "
+"Plugins is to display Gallery as shown in demo. You need to activate Carousel "
+"and Tiled Galleries to display exactly as in our demo site.\n"
+"      \t"
+msgstr ""
+
+#: inc/CustomizerImporter.php:37 inc/CustomizerImporter.php:45
+msgid "Importing customizer settings"
+msgstr ""
+
+#: inc/CustomizerImporter.php:43
+msgid "Customizer settings import finished!"
+msgstr ""
+
+#: inc/CustomizerImporter.php:73
+#, php-format
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: inc/CustomizerImporter.php:93
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make sure "
+"to use the correct customizer import file."
+msgstr ""
+
+#: inc/CustomizerImporter.php:99
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You can "
+"only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: inc/Downloader.php:58
+msgid "Missing URL for downloading a file!"
+msgstr ""
+
+#: inc/Downloader.php:76
+#, php-format
+msgid ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - %6$s."
+msgstr ""
+
+#: inc/Helpers.php:197 inc/Helpers.php:240
+#, php-format
+msgid ""
+"An error occurred while writing file to your server! Tried to write a file to: %s"
+"%s."
+msgstr ""
+
+#: inc/Helpers.php:274
+#, php-format
+msgid ""
+"An error occurred while reading a file from your server! Tried reading file from "
+"path: %s%s."
+msgstr ""
+
+#: inc/Helpers.php:297
+#, php-format
+msgid ""
+"This WordPress page does not have %sdirect%s write file access. This plugin "
+"needs it in order to save the demo import xml file to the upload directory of "
+"your site. You can change this setting with these instructions: %s."
+msgstr ""
+
+#: inc/Helpers.php:308 inc/ThemeFreesiaDemoImport.php:137 views/plugin-page.php:21
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/Helpers.php:309 inc/ThemeFreesiaDemoImport.php:138 views/plugin-page.php:120
+#: views/plugin-page.php:132
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/Helpers.php:321
+msgid ""
+"An error occurred while retrieving reading/writing permissions to your server "
+"(could not retrieve WP filesystem credentials)!"
+msgstr ""
+
+#: inc/Helpers.php:329
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""
+
+#: inc/Helpers.php:369
+msgid "One Click Demo Import - "
+msgstr ""
+
+#: inc/Helpers.php:403
+#, php-format
+msgid ""
+"%sYour user role isn't high enough. You don't have permission to import demo "
+"data.%s"
+msgstr ""
+
+#: inc/Helpers.php:449
+#, php-format
+msgid "Content file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/Helpers.php:453 inc/Helpers.php:470 inc/Helpers.php:487 inc/Helpers.php:498
+#: inc/Helpers.php:518 inc/Helpers.php:526
+msgid "Upload files"
+msgstr ""
+
+#: inc/Helpers.php:466
+#, php-format
+msgid "Widget file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/Helpers.php:483
+#, php-format
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/Helpers.php:496
+msgid "Missing Redux option name! Please also enter the Redux option name!"
+msgstr ""
+
+#: inc/Helpers.php:514
+#, php-format
+msgid "Redux file was not uploaded. Error: %s"
+msgstr ""
+
+#: inc/Helpers.php:524
+msgid "The import files were successfully uploaded!"
+msgstr ""
+
+#: inc/Helpers.php:550
+#, php-format
+msgid "Initial max execution time = %s"
+msgstr ""
+
+#: inc/Helpers.php:554
+#, php-format
+msgid ""
+"Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s"
+"%1$sCustomizer file = %5$s%1$sRedux files:%1$s%6$s"
+msgstr ""
+
+#: inc/Helpers.php:557 inc/Helpers.php:558 inc/Helpers.php:559 inc/Helpers.php:560
+msgid "not defined!"
+msgstr ""
+
+#: inc/Importer.php:172
+msgid "New AJAX call!"
+msgstr ""
+
+#: inc/ReduxImporter.php:23
+msgid "The Redux plugin is not activated, so the Redux import was skipped!"
+msgstr ""
+
+#: inc/ReduxImporter.php:32 inc/ReduxImporter.php:53 inc/ReduxImporter.php:66
+msgid "Importing Redux settings"
+msgstr ""
+
+#: inc/ReduxImporter.php:51
+#, php-format
+msgid "Redux settings import for: %s finished successfully!"
+msgstr ""
+
+#: inc/ReduxImporter.php:57
+#, php-format
+msgid ""
+"The Redux option name: %s, was not found in this WP site, so it was not imported!"
+msgstr ""
+
+#: inc/ThemeFreesiaDemoImport.php:190
+msgid "No preview image defined for this import."
+msgstr ""
+
+#: inc/ThemeFreesiaDemoImport.php:191
+msgid "Are you sure?"
+msgstr ""
+
+#: inc/ThemeFreesiaDemoImport.php:192
+msgid "Cancel"
+msgstr ""
+
+#: inc/ThemeFreesiaDemoImport.php:193
+msgid "Yes, import!"
+msgstr ""
+
+#: inc/ThemeFreesiaDemoImport.php:194
+msgid "Selected demo import:"
+msgstr ""
+
+#: inc/ThemeFreesiaDemoImport.php:241
+msgid "Manually uploaded files"
+msgstr ""
+
+#: inc/ThemeFreesiaDemoImport.php:254 inc/ThemeFreesiaDemoImport.php:265
+msgid "Downloaded files"
+msgstr ""
+
+#: inc/ThemeFreesiaDemoImport.php:261
+#, php-format
+msgid "The import files for: %s were successfully downloaded!"
+msgstr ""
+
+#: inc/ThemeFreesiaDemoImport.php:270
+msgid "No import files specified!"
+msgstr ""
+
+#: inc/ThemeFreesiaDemoImport.php:391
+msgid ""
+"Just used One Click Demo Import plugin and it was awesome! Thanks "
+"@ProteusThemes! #TFDI https://www.proteusthemes.com/"
+msgstr ""
+
+#: inc/ThemeFreesiaDemoImport.php:394
+#, php-format
+msgid ""
+"%1$s%6$sWasn't this a great One Click Demo Import experience?%7$s Created and "
+"maintained by %3$sProteusThemes%4$s. %2$s%5$sClick to Tweet!%4$s%8$s"
+msgstr ""
+
+#: inc/ThemeFreesiaDemoImport.php:407
+#, php-format
+msgid ""
+"%1$s%3$sThat's it, all done!%4$s%2$sThe demo import has finished. Please check "
+"your page and make sure that everything has imported correctly. If it did, you "
+"can deactivate the %3$sOne Click Demo Import%4$s plugin, because it has done its "
+"job.%5$s"
+msgstr ""
+
+#: inc/ThemeFreesiaDemoImport.php:418
+#, php-format
+msgid ""
+"%1$sThe demo import has finished, but there were some import errors.%2$sMore "
+"details about the errors can be found in this %3$s%5$slog file%6$s%4$s%7$s"
+msgstr ""
+
+#: inc/WPCLICommands.php:34
+msgid "There are no predefined demo imports for currently active theme!"
+msgstr ""
+
+#: inc/WPCLICommands.php:37
+msgid "Here are the predefined demo imports:"
+msgstr ""
+
+#: inc/WPCLICommands.php:71
+msgid "At least one of the possible options should be set! Check them with --help"
+msgstr ""
+
+#: inc/WPCLICommands.php:122
+msgid ""
+"The \"predefined\" parameter should be a number (an index of the TFDI predefined "
+"demo import)!"
+msgstr ""
+
+#: inc/WPCLICommands.php:128
+msgid ""
+"The supplied predefined index does not exist! Please take a look at the "
+"available predefined demo imports:"
+msgstr ""
+
+#: inc/WPCLICommands.php:135
+msgid "Predefined demo import started! All other parameters will be ignored!"
+msgstr ""
+
+#: inc/WPCLICommands.php:140
+#, php-format
+msgid "Selected predefined demo import: %s"
+msgstr ""
+
+#: inc/WPCLICommands.php:143
+msgid "Preparing the demo import files..."
+msgstr ""
+
+#: inc/WPCLICommands.php:148
+msgid "Demo import files could not be retrieved!"
+msgstr ""
+
+#: inc/WPCLICommands.php:151
+msgid "Demo import files retrieved successfully!"
+msgstr ""
+
+#: inc/WPCLICommands.php:153
+msgid "Importing..."
+msgstr ""
+
+#: inc/WPCLICommands.php:173
+msgid "Predefined import finished!"
+msgstr ""
+
+#: inc/WPCLICommands.php:185
+msgid "Content import file provided does not exist! Skipping this import!"
+msgstr ""
+
+#: inc/WPCLICommands.php:194
+msgid "Importing content (this might take a while)..."
+msgstr ""
+
+#: inc/WPCLICommands.php:196
+msgid "Importing content"
+msgstr ""
+
+#: inc/WPCLICommands.php:201
+msgid "Content import finished!"
+msgstr ""
+
+#: inc/WPCLICommands.php:204
+msgid "There were some issues while importing the content!"
+msgstr ""
+
+#: inc/WPCLICommands.php:223
+msgid "Widgets import file provided does not exist! Skipping this import!"
+msgstr ""
+
+#: inc/WPCLICommands.php:227
+msgid "Importing widgets..."
+msgstr ""
+
+#: inc/WPCLICommands.php:232
+msgid "Widgets imported successfully!"
+msgstr ""
+
+#: inc/WPCLICommands.php:235
+msgid "There were some issues while importing widgets!"
+msgstr ""
+
+#: inc/WPCLICommands.php:254
+msgid "Customizer import file provided does not exist! Skipping this import!"
+msgstr ""
+
+#: inc/WPCLICommands.php:258
+msgid "Importing customizer settings..."
+msgstr ""
+
+#: inc/WPCLICommands.php:263
+msgid "Customizer settings imported successfully!"
+msgstr ""
+
+#: inc/WPCLICommands.php:266
+msgid "There were some issues while importing customizer settings!"
+msgstr ""
+
+#: inc/WPCLICommands.php:286
+#, php-format
+msgid "Executing action: %s ..."
+msgstr ""
+
+#: inc/WidgetImporter.php:40 inc/WidgetImporter.php:52
+msgid "Importing widgets"
+msgstr ""
+
+#: inc/WidgetImporter.php:88
+msgid "Error: Widget import file could not be found."
+msgstr ""
+
+#: inc/WidgetImporter.php:118
+msgid "Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: inc/WidgetImporter.php:157
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: inc/WidgetImporter.php:178
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/WidgetImporter.php:211
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/WidgetImporter.php:269
+msgid "Imported"
+msgstr ""
+
+#: inc/WidgetImporter.php:273
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/WidgetImporter.php:279
+msgid "No Title"
+msgstr ""
+
+#: inc/WidgetImporter.php:326
+msgid "No results for widget import!"
+msgstr ""
+
+#: plus-files/idyllic-plus.php:13
+msgid ""
+"Important: You have to set up slider from Customize > Slider Options > Select "
+"Category Slider.<br> Portfolio from Customize > Front Page Template > Portfolio "
+"Section <br> Latest From Blog from Customize > Front Page Template > Latest From "
+"Blog Section <br> Recommended Plugins: Install WooCommerce , Recent Posts Widget "
+"With Thumbnails and Contact Form 7 Plugins  to look exactly as in our demo. <br> "
+"<br> Thanks for being part of us. If you really like our theme, Please help us "
+"<a href=\"https://wordpress.org/support/theme/idyllic/reviews/\" target=\"_blank"
+"\" rel=\"nofollow\">rating</a> our theme\n"
+"        "
+msgstr ""
+
+#: plus-files/magbook-plus.php:14
+msgid ""
+"Recommended Plugins: Install WooCommerce, Contact Form 7 and Magbook Plus "
+"Plugins  to look exactly as in our demo. <br> <br> Thanks for being part of us. "
+"If you really like our theme, Please help us <a href=\"https://wordpress.org/"
+"support/theme/magbook/reviews/\" target=\"_blank\" rel=\"nofollow\">rating</a> "
+"our theme\n"
+"      \t"
+msgstr ""
+
+#: plus-files/photograph-plus.php:15
+msgid ""
+"Recommended Plugins: Jetpack, Instagram Feed and Contact Form 7 Plugins  to look "
+"exactly as in our demo. <br> <br> Thanks for being part of us. If you really "
+"like our theme, Please help us <a href=\"https://wordpress.org/support/theme/"
+"photograph/reviews/\" target=\"_blank\" rel=\"nofollow\">rating</a> our theme. "
+"Jetpack Plugins is to display Gallery as shown in demo. You need to activate "
+"Carousel and Tiled Galleries to display exactly as in our demo site.\n"
+"      \t"
+msgstr ""
+
+#: theme-freesia-demo-import.php:195
+#, php-format
+msgid ""
+"The %2$sOne Click Demo Import%3$s plugin requires %2$sPHP 5.3.2+%3$s to run "
+"properly. Please contact your hosting company and ask them to update the PHP "
+"version of your site to at least PHP 5.3.2.%4$s Your current version of PHP: %2$s"
+"%1$s%3$s"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:131
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:167
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:283
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:356
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may not "
+"be supported. Please consider updating."
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:506
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:566
+msgid "Invalid author mapping"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:667
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:755
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:765
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:843
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:857
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:889
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1772
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:894
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:934
+#, php-format
+msgid "Failed to import term: %s - %s"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1075
+msgid "Invalid file type"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1558
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1579
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1583
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1733
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1777
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1835
+#, php-format
+msgid "Failed to add metakey: %s, metavalue: %s to term_id: %d"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1844
+#, php-format
+msgid "Meta for term_id %d : %s => %s ; successfully added!"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1895
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1917
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1923
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1948
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1961
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1966
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1980
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1985
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2011
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2022
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2067
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2072
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be found"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2094
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2098
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2112
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2116
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2133
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2162
+#, php-format
+msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2172
+#, php-format
+msgid "No taxonomy provided in terms-to-be-remapped array for term #%d"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2183
+#, php-format
+msgid "No parent_slug identified in remapping-array for term: %d"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2191
+#, php-format
+msgid "The term(%d)\"s parent_slug (%s) is not found in the remapping-array."
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2205
+#, php-format
+msgid "No data returned by get_term_by for term_id #%d"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2224
+#, php-format
+msgid "Could not update \"%s\" (term #%d) with mapped data"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2234
+#, php-format
+msgid "Term %d was successfully updated with parent %d"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2269
+msgid "Starting remapping of featured images"
+msgstr ""
+
+#: vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2278
+#, php-format
+msgid "Remapping featured image ID %d to new ID %d for post ID %d"
+msgstr ""
+
+#: views/plugin-page.php:31
+#, php-format
+msgid ""
+"%sWarning: your server is using %sPHP safe mode%s. This means that you might "
+"experience server timeout errors.%s"
+msgstr ""
+
+#: views/plugin-page.php:44
+msgid "Before you begin, make sure all the required plugins are activated."
+msgstr ""
+
+#: views/plugin-page.php:49
+msgid ""
+"Importing demo data (post, pages, images, theme settings, ...) is the easiest "
+"way to setup your theme."
+msgstr ""
+
+#: views/plugin-page.php:50
+msgid ""
+"It will allow you to quickly edit everything instead of creating content from "
+"scratch."
+msgstr ""
+
+#: views/plugin-page.php:55
+msgid "When you import the data, the following things might happen:"
+msgstr ""
+
+#: views/plugin-page.php:58
+msgid ""
+"No existing posts, pages, categories, images, custom post types or any other "
+"data will be deleted or modified."
+msgstr ""
+
+#: views/plugin-page.php:59
+msgid ""
+"Posts, pages, images, widgets, menus and other theme settings will get imported."
+msgstr ""
+
+#: views/plugin-page.php:60
+msgid ""
+"Please click on the Import button only once and wait, it can take a couple of "
+"minutes."
+msgstr ""
+
+#: views/plugin-page.php:65
+msgid "Switch to manual import!"
+msgstr ""
+
+#: views/plugin-page.php:67
+msgid "Switch back to theme predefined imports!"
+msgstr ""
+
+#: views/plugin-page.php:83
+msgid ""
+"There are no predefined import files available in this theme. Please upload the "
+"import files manually!"
+msgstr ""
+
+#: views/plugin-page.php:90
+msgid "Manual demo files upload"
+msgstr ""
+
+#: views/plugin-page.php:93
+msgid "Choose a XML file for content import:"
+msgstr ""
+
+#: views/plugin-page.php:98
+msgid "Choose a WIE or JSON file for widget import:"
+msgstr ""
+
+#: views/plugin-page.php:103
+msgid "Choose a DAT file for customizer import:"
+msgstr ""
+
+#: views/plugin-page.php:109
+msgid "Choose a JSON file for Redux import:"
+msgstr ""
+
+#: views/plugin-page.php:112
+msgid "Enter the Redux option name:"
+msgstr ""
+
+#: views/plugin-page.php:147
+msgid "All"
+msgstr ""
+
+#: views/plugin-page.php:154
+msgid "Search demos..."
+msgstr ""
+
+#: views/plugin-page.php:175
+msgid "No preview image."
+msgstr ""
+
+#: views/plugin-page.php:180
+msgid "Import"
+msgstr ""
+
+#: views/plugin-page.php:182
+msgid "Preview"
+msgstr ""
+
+#: views/plugin-page.php:195
+msgid "Importing, please wait!"
+msgstr ""

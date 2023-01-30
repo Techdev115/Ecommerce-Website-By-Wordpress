@@ -1,0 +1,47 @@
+/************************* SHOPPINGCART CUSTOMIZER CUSTOM CSS **************************************/
+.wp-core-ui .btn-upgrade, #about_shoppingcart {
+	background-color: #f77426;
+	border: 1px solid #f77426;
+	box-shadow: none;
+	color: #fff;
+	margin-top: 10px;
+	border-radius: 0;
+		-ms-transition: all 0.3s ease 0s;
+		-moz-transition: all 0.3s ease 0s;
+		-webkit-transition: all 0.3s ease 0s;
+		-o-transition: all 0.3s ease 0s;
+	transition: all 0.3s ease 0s;
+}
+.wp-core-ui .btn-upgrade:hover, #about_shoppingcart:hover,
+.wp-core-ui .btn-upgrade:focus, #about_shoppingcart:focus  {
+	background-color: #bbb;
+	border: 1px solid #bbb;
+	box-shadow: none;
+	color: #fff;
+}
+#shoppingcart_upgrade{
+	display: block;
+	float: left;
+	width: 100%;
+}
+#about_shoppingcart{
+	display: block;
+	padding: 10px 0px 10px 0;
+	text-align: center;
+	margin: -5px;
+}
+#customize-controls .control-section-shoppingcart .accordion-section-title:hover,
+#customize-controls .control-section-shoppingcart .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-shoppingcart .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+}
+
+	.rtl .control-section-shoppingcart .accordion-section-title .button {
+		margin-left:  0;
+		margin-right: 8px;
+	}

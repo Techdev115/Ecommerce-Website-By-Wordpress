@@ -1,0 +1,24 @@
+2022-02-14T11:23:03+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\woo-payment-bkash\includes\Gateway\Processor.php:336
+Stack trace:
+#0 C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\woo-payment-bkash\includes\Gateway\Processor.php(336): sprintf('Bearer %s', Object(WP_Error))
+#1 C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\woo-payment-bkash\includes\Gateway\Processor.php(199): DCoders\Bkash\Gateway\Processor->get_authorization_header()
+#2 C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\woo-payment-bkash\includes\Gateway\Bkash.php(162): DCoders\Bkash\Gateway\Processor->create_payment(225, 324)
+#3 C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\woo-payment-bkash\includes\Gateway\Bkash.php(90): DCoders\Bkash\Gateway\Bkash->create_payment_request(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp- in C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\woo-payment-bkash\includes\Gateway\Processor.php on line 336
+
+2022-02-14T11:24:31+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\woo-payment-bkash\includes\Gateway\Processor.php:336
+Stack trace:
+#0 C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\woo-payment-bkash\includes\Gateway\Processor.php(336): sprintf('Bearer %s', Object(WP_Error))
+#1 C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\woo-payment-bkash\includes\Gateway\Processor.php(199): DCoders\Bkash\Gateway\Processor->get_authorization_header()
+#2 C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\woo-payment-bkash\includes\Gateway\Bkash.php(162): DCoders\Bkash\Gateway\Processor->create_payment(225, 326)
+#3 C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\woo-payment-bkash\includes\Gateway\Bkash.php(90): DCoders\Bkash\Gateway\Bkash->create_payment_request(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp- in C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\woo-payment-bkash\includes\Gateway\Processor.php on line 336
+
+2022-02-14T11:24:31+00:00 CRITICAL Uncaught Error: Object of class WP_Error could not be converted to string in C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\woo-payment-bkash\includes\Gateway\Processor.php:336
+Stack trace:
+#0 C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\woo-payment-bkash\includes\Gateway\Processor.php(336): sprintf('Bearer %s', Object(WP_Error))
+#1 C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\woo-payment-bkash\includes\Gateway\Processor.php(199): DCoders\Bkash\Gateway\Processor->get_authorization_header()
+#2 C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\woo-payment-bkash\includes\Gateway\Bkash.php(162): DCoders\Bkash\Gateway\Processor->create_payment(225, 325)
+#3 C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\woo-payment-bkash\includes\Gateway\Bkash.php(90): DCoders\Bkash\Gateway\Bkash->create_payment_request(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#4 C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp- in C:\xampp\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\woo-payment-bkash\includes\Gateway\Processor.php on line 336
+

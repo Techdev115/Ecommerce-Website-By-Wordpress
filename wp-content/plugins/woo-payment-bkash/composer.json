@@ -1,0 +1,24 @@
+{
+    "name": "kapilpaul/payment-gateway-bkash-for-wc",
+    "description": "An eCommerce payment method that helps you sell anything. Beautifully.",
+    "type": "wordpress-plugin",
+    "license": "GPLv2 or later",
+    "authors": [
+        {
+            "name": "Kapil Paul",
+            "email": "kapilpaul007@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "appsero/client": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "DCoders\\Bkash\\": "includes/"
+        },
+        "files": [
+            "includes/functions.php"
+        ]
+    }
+}

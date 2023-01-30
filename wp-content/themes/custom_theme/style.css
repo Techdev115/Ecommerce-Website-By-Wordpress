@@ -1,0 +1,122 @@
+/*
+Theme Name: Custom Theme
+Theme URI: https://github.com/jongrover/building-a-wordpress-theme-from-scratch
+Author: Jonathan Grover
+Author URI: https://jonathangrover.com
+Description: Example Theme from Github Repo
+Version: 0.0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: bootstrap
+Text Domain: jongcustomtheme
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+}
+
+main {
+  background: white;
+}
+
+footer {
+  margin-top: 40px;
+  border-top: 1px solid #ccc;
+  background: #f8f9fa;
+  padding-bottom: 40px;
+}
+
+footer .row {
+  padding: 40px 0 10px;
+}
+
+.copyright {
+  text-align: left;
+  color: #777;
+}
+
+main {
+  margin-top: 80px;
+}
+
+.menu {
+  list-style: none;
+  padding-left: 0;
+}
+
+.menu-item a {
+    display: inline-block;
+    padding: .5rem 1rem;
+}
+
+[class$="-widget"] .menu-item, [class$="-widget"] .menu-item a {
+  display: block;
+  padding: 0;
+}
+
+.navbar-nav .menu-item a {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.navbar-light .navbar-nav .menu-item a {
+    color: rgba(0,0,0,.5);
+}
+
+.navbar-light .navbar-nav .menu-item a:hover {
+    color: rgba(0,0,0,.7);
+    text-decoration: none;
+}
+
+.navbar-light .navbar-brand.active, .navbar-light .navbar-nav .menu-item a.active, .nav .menu-item a.active {
+  color: darkblue;
+}
+
+[class$="-widget"] ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.comment-respond {
+  border: 1px solid #ccc;
+  background: #efefef;
+  padding: 20px;
+}
+
+.form-submit input[type="submit"] {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 1px solid transparent;
+  padding: .5rem .75rem;
+  font-size: 1rem;
+  line-height: 1.25;
+  border-radius: .25rem;
+  transition: all .15s ease-in-out;
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+  cursor: pointer;
+}
+
+@media (min-width: 992px) {
+  .menu-item {
+    display: inline-block;
+  }
+  .navbar-expand-lg .navbar-nav .menu-item a {
+    padding-right: .5rem;
+    padding-left: .5rem;
+  }
+}

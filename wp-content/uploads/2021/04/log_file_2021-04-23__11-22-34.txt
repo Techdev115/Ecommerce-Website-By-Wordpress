@@ -1,0 +1,163 @@
+
+---Downloaded files---
+The import files for: Default ShoppingCart were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/final_project_Sajeeb_Chakraborty
+Data file = C:\xampp_wordpress\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\theme-freesia-demo-import\files/dummy/shoppingcart/shoppingcart.wordpress.xml
+Widget file = C:\xampp_wordpress\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\theme-freesia-demo-import\files/dummy/shoppingcart/shoppingcart-widgets.wie
+Customizer file = C:\xampp_wordpress\htdocs\final_project_Sajeeb_Chakraborty\wp-content\plugins\theme-freesia-demo-import\files/dummy/shoppingcart/shoppingcart-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Search - No Title - Widget already exists
+TF: Popular Posts - No Title - Imported
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Top Header Info : 
+
+Text - No Title - Imported
+
+Advertisement Banner One : 
+
+Image - No Title - Imported
+
+Shopping Cart Template : 
+
+TF: Product Grid Column Widget - Best Selling Products - Imported
+Products - Products - Imported
+TF: Product Grid Column Widget - Featured Products - Imported
+Products by Rating - Top rated products - Imported
+TF: Product Grid Column Widget - New Arrival Product - Imported
+
+Contact Page Sidebar : 
+
+Custom HTML - Contact Info - Imported
+
+WooCommerce Sidebar : 
+
+Product Categories - Product categories - Imported
+Active Product Filters - Active filters - Imported
+Filter Products by Price - Filter by price - Imported
+Products - Products - Imported
+Product Tag Cloud - Product tags - Imported
+
+ ShoppingCart Template Footer Column 1 : 
+
+Products - Featured Products - Imported
+
+ ShoppingCart Template Footer Column 2 : 
+
+Products - On Sale Products - Imported
+
+ ShoppingCart Template Footer Column 3 : 
+
+Products - All Products - Imported
+
+ ShoppingCart Template Footer Column 4 : 
+
+Products - Products - Imported
+
+Footer Column 1 : 
+
+Text - No Title - Imported
+
+Footer Column 2 : 
+
+Custom HTML - We Accept - Imported
+
+Footer Column 3 : 
+
+Custom HTML - Shop Location - Imported
+
+Footer Column 4 : 
+
+Image - Download App - Imported
+Image - No Title - Imported
+
+Max Mega Menu Widgets : 
+
+Products - Products - Imported
+Text - No Title - Imported
+Products - Products - Imported
+Text - No Title - Imported
+Max Mega Menu - No Title - Imported
+Navigation Menu - No Title - Imported
+Image - Featured Product - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---tf-tfdi/after_import---
+
